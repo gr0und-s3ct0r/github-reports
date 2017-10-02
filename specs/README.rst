@@ -6,10 +6,10 @@ Create reports based on github repository usage
 
 Run report generation
 ---------------------
-
-The report will be generated using CI on specific TAG
+TODO: define trigger to run it
 
 Reports Contents
 ----------------
 
-Report
+Get all PR, last merged, and issues of a projet
+present it using html page or github md file
